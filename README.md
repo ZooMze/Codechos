@@ -1,2 +1,3 @@
-# Codechos
-a CMS Framework for Codechos.
+# Vue-Template-Koala
+
+a CMS Framework for Koala.
